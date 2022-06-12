@@ -1,0 +1,26 @@
+.lista-de-materiales{
+    list-style: none;
+    padding: 0;
+    width: 364px;
+    height: 45px;
+    border-radius: 8px;
+    border: solid #118F7E;
+    font:16px;
+    color:#154A02;
+    margin-left: 16px;
+}
+
+.lista-de-materiales li{
+    margin: 1rem 0 ;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
+
+.TituloMateriales{
+    align-items: center;
+    margin-left: 16px;
+}
+
+.c-pill--warning{
+    background: #ffebb6;;
+}

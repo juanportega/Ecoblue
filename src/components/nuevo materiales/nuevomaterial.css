@@ -1,0 +1,32 @@
+.Input{
+    width: 364px;
+    height: 45px;
+    border-radius: 8px;
+    background: #ffffff;
+    margin-left: 16px;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    align-items: center;
+    font-style: normal;
+    border:solid #118F7E;
+    box-shadow: solid, 10px, 10px, 10px rgba(96, 203, 104, 0.25);
+    flex-direction: row;
+}
+
+.Cotizar{
+    width: 174px;
+    height: 45px;
+    background: #154A02;
+    align-items: center;
+    font-family: 'Inter';
+    font-family: normal;
+    font-size: 16px;
+    color: white;
+    border-radius: 8px;
+    border-width: 1px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: -175px;
+}
